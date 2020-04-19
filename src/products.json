@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "Skin Cream",
+        "description": "Succulent and scented cream",
+        "img": "cream.jpg",
+        "price": "£19.99"      
+
+    },
+
+    {
+        "id": 2,
+        "title": "Gigantic Bulb",
+        "description": "A souvenir for keeps",
+        "img": "bulb.jpg",
+        "price": "£49.99"      
+
+    },
+
+    {
+        "id": 3,
+        "title": "Sound",
+        "description": "A sound system like no other",
+        "img": "sound.jpg",
+        "price": "£99.99"      
+
+    }, 
+
+    {
+        "id": 4,
+        "title": "Watches",
+        "description": "A collection of Watches",
+        "img": "watch.jpg",
+        "price": "£149.99"      
+
+    },
+
+    {
+        "id": 5,
+        "title": "Cleaning Products",
+        "description": "Keep it clean guys!",
+        "img": "clean.jpg",
+        "price": "£8.99"      
+
+    }
+
+    
+]
